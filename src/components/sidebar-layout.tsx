@@ -60,7 +60,7 @@ function SidebarContent({ collapsed = false }: { collapsed?: boolean }) {
               collapsed ? "hidden" : "hidden lg:block"
             )}
           >
-            HR Client
+            Hamah
           </span>
         </Link>
       </div>
